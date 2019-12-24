@@ -1,0 +1,11 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=2ca25
+ro.build.version.ci=26
+ro.mot.build.guid=665785f9ec53e3e
+ro.mot.base_buildid=PPK29.68-16-21/45305
+ro.product.name=deen
+ro.mot.build.oem.product=deen
+ro.mot.build.customerid=retail
+ro.product.device=deen_sprout
