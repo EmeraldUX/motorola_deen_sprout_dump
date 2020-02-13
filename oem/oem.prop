@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=6add
+ro.build.version.ci=26
+ro.build.version.revision=2
+ro.mot.build.guid=bc628a48f4d71f8
+ro.product.name=deen
+ro.product.system.name=deen
+ro.product.product.name=deen
+ro.mot.build.oem.product=deen
+ro.mot.build.customerid=retail
+ro.product.device=deen_sprout
