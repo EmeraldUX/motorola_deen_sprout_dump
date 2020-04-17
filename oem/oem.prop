@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=340da
+ro.build.version.ci=5
+ro.mot.build.guid=934efd3eed39820
+ro.mot.base_buildid=QPK30.54-22/6add
+ro.product.name=deen
+ro.product.system.name=deen
+ro.product.product.name=deen
+ro.mot.build.oem.product=deen
+ro.mot.build.customerid=retail
+ro.product.device=deen_sprout
